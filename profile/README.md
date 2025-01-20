@@ -1,4 +1,4 @@
-[!North Line Canada Logo](https://northlinecanada.com/wp-content/uploads/2024/07/NorthLine-Dark.png)
+![North Line Canada Logo](https://northlinecanada.com/wp-content/uploads/2024/07/NorthLine-Dark.png)
 
 # North Line Canada Ltd.
 
