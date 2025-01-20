@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-White.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Dark.png">
   <img alt="North Line Canada Logo" src="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Dark.png">
 </picture>
