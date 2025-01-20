@@ -1,4 +1,8 @@
-![North Line Canada Logo](https://northlinecanada.com/wp-content/uploads/2024/07/NorthLine-Dark.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Dark.png">
+  <img alt="North Line Canada Logo" src="https://github.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Dark.png?raw=true">
+</picture>
 
 # North Line Canada Ltd.
 
@@ -6,8 +10,8 @@
 
 ## Contact Us
 
-On Our Website: [https://northlinecanada.com/contact](https://northlinecanada.com/contact)  
-Email: [support@northlinecanada.com](mailto:support@northlinecanada.com)  
+**On Our Website:** [https://northlinecanada.com/contact](https://northlinecanada.com/contact)  
+**By Email:** [support@northlinecanada.com](mailto:support@northlinecanada.com)  
 
 60 Vanedward Drive, Unit 5  
 Port Perry  
