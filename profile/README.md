@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Dark.png">
-  <img alt="North Line Canada Logo" src="https://github.com/North-Line-Canada/.github/blob/master/profile/NorthLine-Dark.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Dark.png">
+  <img alt="North Line Canada Logo" src="https://raw.githubusercontent.com/North-Line-Canada/.github/refs/heads/master/profile/NorthLine-Dark.png">
 </picture>
 
 # North Line Canada Ltd.
